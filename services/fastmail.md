@@ -1,5 +1,8 @@
 # HEYfi a [fastmail.com](https://fastmail.com) mailbox
 
+![Fastmail](/services/fastmail.png)
+
+
 ## Create subfolders
 - Imbox
   - Set Hide if empty
