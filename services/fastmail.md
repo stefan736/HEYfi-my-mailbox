@@ -14,6 +14,8 @@
 - Paper Trail 
 - Screened Out
 
+## Change Inbox
+- Set Hide if empty
 
 ## Create Contact Groups
 - Screened Out
