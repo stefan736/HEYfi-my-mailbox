@@ -32,3 +32,6 @@ Receipts, orders, invoices are collected in a paper trail.
 ### The Feed
 
 All newsletters & marketing mails you screened positive are going into the feed to read later like a newsfeed or timeline on social media.
+
+## How to HEYfi my mailbox on
+- [fastmail](/services/fastmail.md)
