@@ -1,6 +1,6 @@
 # HEYfi my mailbox 
 
-HEY.com is a brilliant mail service made by basecamp. 
+(HEY.com)[https://hey.com] is a brilliant mail service made by (basecamp)[https://basecamp.com]. 
 By introducing some key elements and processes it makes working with mails nice again. 
 
 Unfortunately it does not support using own domains, so I would like to apply some of the ideas to my mailbox. 
