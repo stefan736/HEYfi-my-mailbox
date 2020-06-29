@@ -44,6 +44,10 @@
 
 Set to only notify you when there is a new mail in Imbox.
 
+## Change Bookmark to Imbox
+
+You can change your default folder when accessing the Web-Interface of fastmail.
+Set your Bookmark to the Imbox [https://www.fastmail.com/mail/Imbox](https://www.fastmail.com/mail/Imbox/?u=645940f4) 
 
 # Workflow
 
