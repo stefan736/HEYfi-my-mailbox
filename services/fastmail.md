@@ -4,15 +4,15 @@
 
 
 ## Create subfolders
-- Imbox
+- 👋 Imbox
   - Set Hide if empty
-- Read Later
+- ↩️ Read Later
   - Set Hide if empty
-- Set aside
+- 📌 Set aside
   - Set Hide if empty
-- The Feed
-- Paper Trail 
-- Screened Out
+- 🗞 The Feed
+- 🗄 Paper Trail 
+- 👎 Screened Out
 
 ## Change Inbox
 - Set Hide if empty
@@ -23,19 +23,19 @@
 - The Feed
 
 ### Create Rules
-- Screened Out
+- 👎 Screened Out
 	- Any mails from senders is members of group **Screened Out**
 	- Move to **Screened Out**
 
-- The Feed
+- 🗞 The Feed
 	- Any mails from senders is members of group **The Feed**
 	- Move to **The Feed**
 
-- Paper Trail
+- 🗄 Paper Trail
 	- Any mails from senders is members of group **Paper Trail**
 	- Move to **Paper Trail**
 	
-- Imbox
+- 👋 Imbox
 	- Any mails from senders is VIP
 	- Move to **Imbox**
 	
